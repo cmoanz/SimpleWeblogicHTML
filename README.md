@@ -8,13 +8,13 @@ Checkout the Blog for more details:
  
 1. Create a folder on your Weblogic server called portal (e.g. c:\portal)
 
-In that folder create a file called index.html
+In that folder create a file called index.html (see the example code)
 
 2. Create a folder in the portal folder called WEB-INF (e.g. c:\portal\WEB-INF)
 
-3. In the WEB-INF directory create a file called web.xml with the following content:
+3. In the WEB-INF directory create a file called web.xml (see the example code)
 
-4. In the WEB-INF directory create a file called weblogic.xml with the following content:
+4. In the WEB-INF directory create a file called weblogic.xml (see the example code)
 
 5. In Weblogic Console -> Click on Deployments.
 
