@@ -34,6 +34,6 @@ REMEMBER to START your Application
 
 Assuming you choose the name "portal" for your application should should see your live document root here:
 
-<middleware home>\user_projects\domains\base_domain\servers\<your server>\stage\portal\portal
+"<middleware home>\user_projects\domains\base_domain\servers\<your server>\stage\portal\portal"
 
 NOTE: You CAN edit these files directly HOWEVER if you need to redeploy in the future you will lose all those changes if they are not back ported to c:\portal
